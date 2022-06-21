@@ -1,1 +1,1 @@
-使用Bresenham算法生成直线段
+使用Bresenham算法生成一条直线段
